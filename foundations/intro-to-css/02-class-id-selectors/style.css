@@ -1,1 +1,20 @@
-/* Add CSS Styling */
+.a1,
+.a2 {
+    font-family: Verdana, "DejaVu Sans", serif;  
+    background-color: #e6a0a0;
+}
+
+.a2 {
+    font-size: 24px
+}
+
+#a3 {
+  font-size: 36px;
+  color: rgb(0, 26, 255);
+}
+
+#a4 {
+  font-size: 24px;
+  background-color: rgb(4, 255, 4);
+  font-weight: bold;
+}
